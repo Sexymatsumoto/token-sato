@@ -3,10 +3,10 @@ import pandas as pd
 import json
 import io
 
-st.title("館長用: 刀剣データ構造化ツール")
+st.title("刀剣データ構造化ツール")
 
 st.markdown("""
-このツールは、99件の刀剣データ（CSV形式）を館長がコピー＆ペーストして、
+このツールは、刀剣データ（CSV形式）をコピー＆ペーストして、
 **構造化JSONに変換する簡易ツール** です。 🔧
 """)
 
